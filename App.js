@@ -9,12 +9,12 @@ export default function App() {
 
 const handleClick = () => {
   
-  setNum(num--)
+  setNum(num - 1)
   
  }
 
  const handleClick2 = () => {
-  setNum(num++);
+  setNum(num + 1);
  }
 
 
